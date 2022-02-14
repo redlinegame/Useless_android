@@ -18,12 +18,12 @@ We aim to bring a more consistent, fluent and smooth experience with all your mu
 1. Run the following commands to sync source
 
 ```
-repo init -u https://github.com/Project-Awaken/android_manifest -b 11
+repo init -u https://github.com/redlinegame/Useless_android -b 11
 ```
 &nbsp; &nbsp; &nbsp; To save more time and space, you can do a shallow clone using
 
 ```
-repo init --depth=1 -u https://github.com/Project-Awaken/android_manifest -b 11
+repo init --depth=1 -u https://github.com/redlinegame/Useless_android -b 11
 ```
 
 2. To sync source, enter
